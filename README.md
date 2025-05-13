@@ -1,3 +1,3 @@
-Parth Khanna
-22/FCA/BCA(DS&BDA)/033
+Ahmad Aftab 
+22/FCA/BCA(AI&ML)/004
 C# lab file
