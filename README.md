@@ -1,3 +1,1 @@
-Ahmad Aftab 
-22/FCA/BCA(AI&ML)/004
-C# lab file
+checkbox example in C# with a menu and bill calculaor
